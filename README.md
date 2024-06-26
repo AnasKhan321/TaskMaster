@@ -25,11 +25,23 @@ Additionally, users can filter the to-do items based on their status (e.g., "To-
 
 
 
+
   3. ** Make .env File and Provide this environment Variable:**
    ```bash
        #server
         PORT=8000 # I prefered 8000 it still upon you 
         SECRET_TOKEN = #Your secret token for jwt Token
+
+      #start the server
+      #server
+      npm start
+
+      #client
+      yarn start
+
+
+
+
 
 
 
