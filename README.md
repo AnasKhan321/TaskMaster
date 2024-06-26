@@ -10,3 +10,29 @@ Additionally, users can filter the to-do items based on their status (e.g., "To-
 - **Update**: Edit existing to-do items.
 - **Delete**: Remove to-do items.
 - **Filter**: Filter to-do items based on their status.
+
+# Installation 
+
+1. **Clone the Repository:**
+   ```bash
+     git clone https://github.com/AnasKhan321/TaskMaster
+
+2. **Install the Dependencies:**
+    ```bash
+        npm i
+
+  in both the folders 
+
+
+
+  3. ** Make .env File and Provide this environment Variable:**
+   ```bash
+       #server
+        PORT=8000 # I prefered 8000 it still upon you 
+        SECRET_TOKEN = #Your secret token for jwt Token
+
+
+
+
+
+  
