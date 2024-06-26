@@ -5,8 +5,8 @@ Additionally, users can filter the to-do items based on their status (e.g., "To-
 
 # Features
 
-**Create**: Add new to-do items.
-**Read**: View all to-do items.
-**Update**: Edit existing to-do items.
-**Delete**: Remove to-do items.
-**Filter**: Filter to-do items based on their status.
+-**Create**: Add new to-do items.
+-**Read**: View all to-do items.
+-**Update**: Edit existing to-do items.
+-**Delete**: Remove to-do items.
+-**Filter**: Filter to-do items based on their status.
