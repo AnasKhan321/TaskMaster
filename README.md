@@ -23,10 +23,10 @@ Additionally, users can filter the to-do items based on their status (e.g., "To-
 
   in both the folders 
 
+ 3. **Start the Your Desire MongoDb Server  :**
 
 
-
-  3. ** Make .env File and Provide this environment Variable:**
+  4. ** Make .env File and Provide this environment Variable:**
    ```bash
        #server
         PORT=8000 # I prefered 8000 it still upon you 
